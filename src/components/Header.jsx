@@ -7,6 +7,7 @@ import {
   FaYoutube,
 } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import { TbWorldCode } from "react-icons/tb";
 
 function Header() {
   return (
@@ -26,27 +27,38 @@ function Header() {
 
       <div className="md:hidden absolute top-16 left-0 w-full bg-[#0A568C] flex  flex-col items-center space-y-4 py-4">
         <div className="flex items-center space-x-4">
+        <a
+            href="https://medicinehospital.com.tr/"
+            className="hover:text-gray-400 text-2xl"
+            target="_blank"
+          >
+            <TbWorldCode />
+          </a>
           <a
             href="https://facebook.com"
             className="hover:text-gray-400 text-2xl"
+            target="_blank"
           >
             <FaFacebook />
           </a>
           <a
             href="https://instagram.com"
             className="hover:text-gray-400 text-2xl"
+            target="_blank"
           >
             <FaInstagram />
           </a>
           <a
             href="https://twitter.com"
             className="hover:text-gray-400 text-2xl"
+            target="_blank"
           >
             <FaTwitter />
           </a>
           <a
             href="https://youtube.com"
             className="hover:text-gray-400 text-2xl"
+            target="_blank"
           >
             <FaYoutube />
           </a>

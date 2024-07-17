@@ -5,7 +5,7 @@
     "category": "Pizza",
     "price": 25.0,
     "img": "https://example.com/images/margherita-pizza.jpg",
-    "desc": "Freshly baked pizza with tomatoes, mozzarella cheese, and basil.",
+    "desc": "Freshly baked pizza with tomatoes, mozzarella cheese, and basil."
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "category": "Burger",
     "price": 18.0,
     "img": "https://example.com/images/cheeseburger.jpg",
-    "desc": "Juicy beef patty with cheddar cheese, lettuce, tomato, and pickles.",
+    "desc": "Juicy beef patty with cheddar cheese, lettuce, tomato, and pickles."
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "category": "Salad",
     "price": 15.0,
     "img": "https://example.com/images/caesar-salad.jpg",
-    "desc": "Crisp romaine lettuce with Caesar dressing, croutons, and parmesan cheese.",
+    "desc": "Crisp romaine lettuce with Caesar dressing, croutons, and parmesan cheese."
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "category": "Pasta",
     "price": 22.0,
     "img": "https://example.com/images/spaghetti-carbonara.jpg",
-    "desc": "Classic Italian pasta with pancetta, eggs, and parmesan cheese.",
+    "desc": "Classic Italian pasta with pancetta, eggs, and parmesan cheese."
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "category": "Sushi",
     "price": 30.0,
     "img": "https://example.com/images/sushi-platter.jpg",
-    "desc": "Assorted sushi rolls with fresh fish, rice, and vegetables.",
+    "desc": "Assorted sushi rolls with fresh fish, rice, and vegetables."
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "category": "Indian",
     "price": 20.0,
     "img": "https://example.com/images/tandoori-chicken.jpg",
-    "desc": "Spicy and flavorful chicken marinated in yogurt and spices, grilled to perfection.",
+    "desc": "Spicy and flavorful chicken marinated in yogurt and spices, grilled to perfection."
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "category": "Thai",
     "price": 19.0,
     "img": "https://example.com/images/pad-thai.jpg",
-    "desc": "Stir-fried rice noodles with shrimp, tofu, eggs, and peanuts.",
+    "desc": "Stir-fried rice noodles with shrimp, tofu, eggs, and peanuts."
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "category": "Middle Eastern",
     "price": 16.0,
     "img": "https://example.com/images/chicken-shawarma.jpg",
-    "desc": "Grilled chicken strips with tahini sauce, served with pita bread and salad.",
+    "desc": "Grilled chicken strips with tahini sauce, served with pita bread and salad."
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "category": "Mexican",
     "price": 14.0,
     "img": "https://example.com/images/beef-tacos.jpg",
-    "desc": "Soft tortillas filled with seasoned beef, lettuce, cheese, and salsa.",
+    "desc": "Soft tortillas filled with seasoned beef, lettuce, cheese, and salsa."
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "category": "Asian",
     "price": 17.0,
     "img": "https://example.com/images/vegetable-stir-fry.jpg",
-    "desc": "Mixed vegetables stir-fried with soy sauce and served with rice.",
+    "desc": "Mixed vegetables stir-fried with soy sauce and served with rice."
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "category": "American",
     "price": 28.0,
     "img": "https://example.com/images/bbq-ribs.jpg",
-    "desc": "Tender pork ribs smothered in BBQ sauce, served with coleslaw and fries.",
+    "desc": "Tender pork ribs smothered in BBQ sauce, served with coleslaw and fries."
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "category": "British",
     "price": 23.0,
     "img": "https://example.com/images/fish-and-chips.jpg",
-    "desc": "Crispy battered fish served with fries and tartar sauce.",
+    "desc": "Crispy battered fish served with fries and tartar sauce."
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "category": "Vegetarian",
     "price": 13.0,
     "img": "https://example.com/images/falafel-wrap.jpg",
-    "desc": "Crispy falafel balls wrapped in a flatbread with hummus, lettuce, and tomatoes.",
+    "desc": "Crispy falafel balls wrapped in a flatbread with hummus, lettuce, and tomatoes."
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "category": "Pasta",
     "price": 21.0,
     "img": "https://example.com/images/chicken-alfredo.jpg",
-    "desc": "Creamy Alfredo sauce with grilled chicken over fettuccine pasta.",
+    "desc": "Creamy Alfredo sauce with grilled chicken over fettuccine pasta."
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "category": "Vietnamese",
     "price": 18.0,
     "img": "https://example.com/images/beef-pho.jpg",
-    "desc": "Traditional Vietnamese soup with beef, rice noodles, and herbs.",
+    "desc": "Traditional Vietnamese soup with beef, rice noodles, and herbs."
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "category": "Vegetarian",
     "price": 19.0,
     "img": "https://example.com/images/eggplant-parmesan.jpg",
-    "desc": "Breaded eggplant slices baked with marinara sauce and mozzarella cheese.",
+    "desc": "Breaded eggplant slices baked with marinara sauce and mozzarella cheese."
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "category": "Salad",
     "price": 14.0,
     "img": "https://example.com/images/greek-salad.jpg",
-    "desc": "Fresh salad with cucumbers, tomatoes, olives, feta cheese, and oregano.",
+    "desc": "Fresh salad with cucumbers, tomatoes, olives, feta cheese, and oregano."
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "category": "Indian",
     "price": 20.0,
     "img": "https://example.com/images/chicken-curry.jpg",
-    "desc": "Spicy chicken curry cooked with aromatic spices and coconut milk.",
+    "desc": "Spicy chicken curry cooked with aromatic spices and coconut milk."
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "category": "Seafood",
     "price": 35.0,
     "img": "https://example.com/images/lobster-roll.jpg",
-    "desc": "Fresh lobster meat in a buttery roll, served with a side of coleslaw.",
+    "desc": "Fresh lobster meat in a buttery roll, served with a side of coleslaw."
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "category": "Vietnamese",
     "price": 12.0,
     "img": "https://example.com/images/banh-mi.jpg",
-    "desc": "Vietnamese sandwich with pork, pickled vegetables, and cilantro.",
+    "desc": "Vietnamese sandwich with pork, pickled vegetables, and cilantro."
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "category": "Soup",
     "price": 15.0,
     "img": "https://example.com/images/clam-chowder.jpg",
-    "desc": "Creamy soup with clams, potatoes, and bacon.",
+    "desc": "Creamy soup with clams, potatoes, and bacon."
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "category": "Appetizer",
     "price": 13.0,
     "img": "https://example.com/images/buffalo-wings.jpg",
-    "desc": "Spicy chicken wings served with blue cheese dressing.",
+    "desc": "Spicy chicken wings served with blue cheese dressing."
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "category": "Italian",
     "price": 22.0,
     "img": "https://example.com/images/mushroom-risotto.jpg",
-    "desc": "Creamy risotto with mushrooms and parmesan cheese.",
+    "desc": "Creamy risotto with mushrooms and parmesan cheese."
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "category": "Middle Eastern",
     "price": 24.0,
     "img": "https://example.com/images/lamb-kebabs.jpg",
-    "desc": "Grilled lamb skewers served with rice and tzatziki sauce.",
+    "desc": "Grilled lamb skewers served with rice and tzatziki sauce."
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "category": "Mexican",
     "price": 17.0,
     "img": "https://example.com/images/chili-con-carne.jpg",
-    "desc": "Spicy chili with ground beef, beans, and tomatoes.",
+    "desc": "Spicy chili with ground beef, beans, and tomatoes."
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "category": "Drink",
     "price": 10.0,
     "img": "https://example.com/images/margarita.jpg",
-    "desc": "Classic cocktail made with tequila, lime juice, and orange liqueur.",
+    "desc": "Classic cocktail made with tequila, lime juice, and orange liqueur."
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "category": "Breakfast",
     "price": 12.0,
     "img": "https://example.com/images/pancakes.jpg",
-    "desc": "Fluffy pancakes served with maple syrup and butter.",
+    "desc": "Fluffy pancakes served with maple syrup and butter."
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "category": "French",
     "price": 30.0,
     "img": "https://example.com/images/steak-frites.jpg",
-    "desc": "Grilled steak served with French fries and garlic butter.",
+    "desc": "Grilled steak served with French fries and garlic butter."
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "category": "Japanese",
     "price": 8.0,
     "img": "https://example.com/images/gyoza.jpg",
-    "desc": "Japanese dumplings filled with pork and vegetables, served with dipping sauce.",
+    "desc": "Japanese dumplings filled with pork and vegetables, served with dipping sauce."
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "category": "Vegetarian",
     "price": 14.0,
     "img": "https://example.com/images/veggie-burger.jpg",
-    "desc": "Grilled vegetable patty with lettuce, tomato, and avocado.",
+    "desc": "Grilled vegetable patty with lettuce, tomato, and avocado."
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "category": "Mexican",
     "price": 15.0,
     "img": "https://example.com/images/chicken-quesadilla.jpg",
-    "desc": "Grilled tortilla filled with chicken, cheese, and vegetables.",
+    "desc": "Grilled tortilla filled with chicken, cheese, and vegetables."
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "category": "Dessert",
     "price": 9.0,
     "img": "https://example.com/images/chocolate-cake.jpg",
-    "desc": "Rich chocolate cake with layers of chocolate ganache.",
+    "desc": "Rich chocolate cake with layers of chocolate ganache."
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "category": "Thai",
     "price": 14.0,
     "img": "https://example.com/images/tom-yum-soup.jpg",
-    "desc": "Spicy Thai soup with shrimp, mushrooms, and lemongrass.",
+    "desc": "Spicy Thai soup with shrimp, mushrooms, and lemongrass."
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "category": "Russian",
     "price": 22.0,
     "img": "https://example.com/images/beef-stroganoff.jpg",
-    "desc": "Tender beef in a creamy mushroom sauce, served with noodles.",
+    "desc": "Tender beef in a creamy mushroom sauce, served with noodles."
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "category": "Japanese",
     "price": 18.0,
     "img": "https://example.com/images/chicken-teriyaki.jpg",
-    "desc": "Grilled chicken glazed with teriyaki sauce, served with rice.",
+    "desc": "Grilled chicken glazed with teriyaki sauce, served with rice."
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "category": "Salad",
     "price": 16.0,
     "img": "https://example.com/images/cobb-salad.jpg",
-    "desc": "Chopped salad with chicken, bacon, eggs, avocado, and blue cheese.",
+    "desc": "Chopped salad with chicken, bacon, eggs, avocado, and blue cheese."
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "category": "Mexican",
     "price": 16.0,
     "img": "https://example.com/images/fish-tacos.jpg",
-    "desc": "Grilled fish in soft tortillas with cabbage slaw and lime crema.",
+    "desc": "Grilled fish in soft tortillas with cabbage slaw and lime crema."
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "category": "Italian",
     "price": 20.0,
     "img": "https://example.com/images/lasagna.jpg",
-    "desc": "Baked pasta dish with layers of meat, cheese, and tomato sauce.",
+    "desc": "Baked pasta dish with layers of meat, cheese, and tomato sauce."
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "category": "Mexican",
     "price": 15.0,
     "img": "https://example.com/images/beef-burrito.jpg",
-    "desc": "Flour tortilla filled with beef, rice, beans, and cheese.",
+    "desc": "Flour tortilla filled with beef, rice, beans, and cheese."
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "category": "Chinese",
     "price": 32.0,
     "img": "https://example.com/images/peking-duck.jpg",
-    "desc": "Roasted duck with crispy skin, served with pancakes and hoisin sauce.",
+    "desc": "Roasted duck with crispy skin, served with pancakes and hoisin sauce."
   },
   {
     "id": 41,
@@ -325,6 +325,6 @@
     "category": "Seafood",
     "price": 25.0,
     "img": "https://example.com/images/shrimp-scampi.jpg",
-    "desc": "Shrimp cooked in garlic butter sauce, served over linguine.",
+    "desc": "Shrimp cooked in garlic butter sauce, served over linguine."
   }
 ]

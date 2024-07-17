@@ -35,28 +35,28 @@ function Header() {
             <TbWorldCode />
           </a>
           <a
-            href="https://facebook.com"
+            href="https://www.facebook.com/medicinehospital.com.tr"
             className="hover:text-gray-400 text-2xl"
             target="_blank"
           >
             <FaFacebook />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/medicinehospital/"
             className="hover:text-gray-400 text-2xl"
             target="_blank"
           >
             <FaInstagram />
           </a>
           <a
-            href="https://twitter.com"
+            href="https://x.com/medicinehospital"
             className="hover:text-gray-400 text-2xl"
             target="_blank"
           >
             <FaTwitter />
           </a>
           <a
-            href="https://youtube.com"
+            href="https://www.youtube.com/@MedicineHospitalTurkey"
             className="hover:text-gray-400 text-2xl"
             target="_blank"
           >

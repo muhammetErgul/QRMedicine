@@ -5,22 +5,22 @@ import {
   FaPhone,
   FaTwitter,
   FaYoutube,
-  FaBars,
-  FaTimes,
+  //FaBars,
+  //FaTimes,
 } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 function Header() {
-  const [menuOpen, setMenuOpen] = useState(false);
+ // const [menuOpen, setMenuOpen] = useState(false);
 
-  const toggleMenu = () => {
-    setMenuOpen(!menuOpen);
-  };
+  // const toggleMenu = () => {
+  //   setMenuOpen(!menuOpen);
+  // };
 
   return (
     <header className="bg-[#0A568C] text-white py-4 px-4 md:px-8 flex flex-wrap items-center justify-between relative mb-3">
       {/* Logo */}
-      <div className="flex items-center space-x-4">
+      <div className="flex items-center mx-auto space-x-4">
         <Link to="/" className="flex items-center">
           <img
             src="/cv-logo.webp"
@@ -30,17 +30,18 @@ function Header() {
             className="mr-2"
           />
         </Link>
+        
       </div>
 
       {/* Hamburger Menu Icon */}
-      <div className="md:hidden">
+      {/* <div className="md:hidden">
         <button onClick={toggleMenu} className="text-2xl focus:outline-none">
           {menuOpen ? <FaTimes /> : <FaBars />}
         </button>
-      </div>
+      </div> */}
 
       {/* Desktop Menu */}
-      <div className="hidden md:flex items-center space-x-4 order-last md:order-none md:ml-auto">
+      {/* <div className="hidden md:flex items-center space-x-4 order-last md:order-none md:ml-auto">
         <a href="https://facebook.com" className="hover:text-gray-400 text-2xl">
           <FaFacebook />
         </a>
@@ -73,11 +74,10 @@ function Header() {
         <a href="tel:+4440205" className="flex items-center space-x-2">
           <FaPhone className="text-xl" />
         </a>
-      </div>
+      </div> */}
 
       {/* Mobile Menu */}
-      {menuOpen && (
-        <div className="md:hidden absolute top-16 left-0 w-full bg-[#0A568C] flex  flex-col items-center space-y-4 py-4">
+      <div className="md:hidden absolute top-16 left-0 w-full bg-[#0A568C] flex  flex-col items-center space-y-4 py-4">
           <div className="flex items-center space-x-4">
             <a
               href="https://facebook.com"
@@ -123,7 +123,6 @@ function Header() {
           </div>
          
         </div>
-      )}
     </header>
   );
 }

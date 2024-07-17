@@ -64,7 +64,7 @@ function Header() {
           >
             <img src="./app-store.png" alt="App Store" className="h-7" />
           </a>
-          <a href="tel:+4440205" className="flex items-center space-x-2">
+          <a href="tel:4440205" className="flex items-center space-x-2">
             <FaPhone className="text-xl" />
           </a>
         </div>

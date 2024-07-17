@@ -6,7 +6,7 @@ import { MdShoppingCartCheckout } from "react-icons/md";
 const UserDashboard = () => {
   
   return (
-    <div className="min-h-screen flex flex-col  bg-gray-100">
+    <div className="min-h-screen flex flex-col mt-10 bg-gray-100">
       <div className="flex-grow container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
           <Link
@@ -44,7 +44,7 @@ const UserDashboard = () => {
           >
             <FaList className="text-4xl text-[#0A568C] mb-2" />
             <span className="text-xl font-semibold text-[#0A568C]">
-              Alet edevat listesi
+              Bilgi
             </span>
           </Link>
           <Link

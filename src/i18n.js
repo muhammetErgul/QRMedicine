@@ -31,6 +31,8 @@ i18n
             devam edecektir.
           `,
           "tanitim-baslik": "ATLAS ÜNİVERSİTESİ MEDICINE HASTANESİ",
+          "footer-title": "Atlas Üniversitesi Medicine Hastanesi",
+          "cominication": "Iletisim Bilgileri",
           "survey-page": "Anket sayfası",
           "about-us": "Medicine - BİZ",
           "appointment": "Medicine - Randevu",
@@ -47,6 +49,8 @@ i18n
             has undertaken an important mission by providing health education to more than 10 thousand students with internship opportunities. Our hospital, which has a strong academic staff and scientific accumulation, will continue to serve our country and the world medicine as “Atlas University Medicine Hospital” since 2019, without compromising its ethical attitude and principled stance.
           `,
           "tanitim-baslik": "ATLAS UNIVERSITY MEDICINE HOSPITAL",
+          "footer-title": "Atlas University Medicine Hospital",
+          "cominication": "Communication Info",
           "survey-page": "Survey Page",
           "about-us": "Medicine - US",
           "appointment": "Medicine - Appointment",
@@ -63,6 +67,8 @@ i18n
             وقد اضطلع المستشفى بمهمة هامة من خلال توفير التعليم الصحي لأكثر من 10 آلاف طالب من خلال فرص التدريب التي يوفرها. سيستمر مستشفانا، الذي يتمتع بطاقم أكاديمي قوي وتراكم علمي كبير، في خدمة بلدنا والطب العالمي باسم ”مستشفى أطلس للطب الجامعي“ منذ عام 2019، دون المساس بموقفه الأخلاقي وموقفه المبدئي.
           `,
           "tanitim-baslik": "مستشفى أطلس للطب الجامعي",
+          "footer-title": "مستشفى أطلس للطب الجامعي",
+          "cominication": "معلومات الاتصال",
           "survey-page": "صفحة الاستبيان",
           "about-us": "الطب - نحن",
           "appointment": "الطب - موعد",

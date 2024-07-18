@@ -1,16 +1,18 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 import { MdLocationOn, MdPhone, MdEmail } from "react-icons/md";
 
 const Footer = () => {
+  const {t} = useTranslation()
   return (
     <footer className="bg-[#0A568C] text-white py-10 px-5 w-full opacity-90 border-t border-gray-700">
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row justify-between items-start">
         <div className="mb-8 lg:mb-0 w-full lg:w-1/3">
-          <h1 className="text-3xl font-bold">Atlas Üniversitesi Medicine Hastanesi</h1>
+          <h1 className="text-3xl font-bold">{t("footer-title")}</h1>
         
         </div>
         <div className="w-full lg:w-1/3">
-          <h2 className="font-bold mb-4">İletişim Bilgileri</h2>
+          <h2 className="font-bold mb-4">{t("cominication")}</h2>
           <div className="space-y-4">
             <div className="flex items-start space-x-2">
               <MdPhone className="text-2xl mt-1" />

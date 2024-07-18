@@ -1,6 +1,6 @@
 import React from "react";
 import { FaLink } from "react-icons/fa";
-
+import { useTranslation } from "react-i18next";
 function SurveyList() {
   const surveys = [
     {
@@ -61,13 +61,14 @@ function SurveyList() {
     },
   ];
 
+  const {t} = useTranslation();
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center mt-8 py-8 px-4">
       <div className="w-full max-w-4xl overflow-x-auto">
         <table className="min-w-full bg-white shadow-md rounded-lg overflow-hidden">
           <thead className="bg-[#0A568C] text-white">
             <tr>
-              <th className="px-4 py-2 text-left">Anket Başlık</th>
+              <th className="px-4 py-2 text-center">{t("survey-title")}</th>
             </tr>
           </thead>
           <tbody>

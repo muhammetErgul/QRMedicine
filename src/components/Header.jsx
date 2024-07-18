@@ -8,12 +8,16 @@ import {
 } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { TbWorldCode } from "react-icons/tb";
+import LanguageSelector from "../translations/LanguageSelector";
 
 function Header() {
   return (
-    <header className="bg-[#0A568C] text-white py-4 px-4 md:px-8 flex flex-wrap items-center justify-between relative mb-3">
+    <header className="bg-[#0A568C] text-white py-4 px-4 md:px-8 flex flex-wrap items-center justify-center relative mb-3">
+      <div className="absolute top-4 right-0">
+        <LanguageSelector />
+      </div>
       {/* Logo */}
-      <div className="flex items-center mx-auto space-x-4">
+      <div className="flex items-center  mx-auto space-x-4">
         <Link to="/" className="flex items-center">
           <img
             src="/cv-logo.webp"
@@ -27,7 +31,7 @@ function Header() {
 
       <div className="md:hidden absolute top-16 left-0 w-full bg-[#0A568C] flex  flex-col items-center space-y-4 py-4">
         <div className="flex items-center space-x-4">
-        <a
+          <a
             href="https://medicinehospital.com.tr/"
             className="hover:text-gray-400 text-2xl"
             target="_blank"
